@@ -1,0 +1,6 @@
+Test pyramid concept is consist of unit test, integration test and UI test
+- unit test is the base of a pyramid It tests only a small part of the code. It tests each method that can work correctly.
+- integration test is a function test. The service can work correctly as it should. It will test the whole function not just a small part.
+This step could have an automation test. If there is a automate in this step it could know the issue faster.
+- UI test or user interface test. It is the end-to-end test like the real user. It's good to have automation in this step.
+even though it's hard to investiggit init --initial-branch=mainate the problem. It's reduced the time that we have to test every time a new feature is released.
